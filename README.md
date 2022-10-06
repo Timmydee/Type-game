@@ -11,10 +11,10 @@ A webApp to help your typing skills and efficiency.
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-
+### Preview
+![Example screenshot](./Img/type-game.PNG)
 
 ![gatsby 1497548146](https://user-images.githubusercontent.com/80044482/194142232-f1a68662-917d-438b-84c0-2b246907fbbd.gif)
 
 
 
-![meme](https://d2kspx2x29brck.cloudfront.net/1200x675/filters:format(webp)/img/iea/yrwQvLJbON/programmer-memes.jpg)
