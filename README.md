@@ -12,7 +12,7 @@ A webApp to help your typing skills and efficiency.
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Preview
-![Example screenshot](../../Img/type-game.PNG)
+![Example screenshot](./Img/type-game.PNG)
 
 ![gatsby 1497548146](https://user-images.githubusercontent.com/80044482/194142232-f1a68662-917d-438b-84c0-2b246907fbbd.gif)
 
